@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "635352733890",
+    "project_id": "gogame-bc5f2",
+    "storage_bucket": "gogame-bc5f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635352733890:android:a6697ba2bb32b0410e435b",
+        "android_client_info": {
+          "package_name": "com.example.gogame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvvsORgL83OtmDp1pceHdQh9CWGMZog5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635352733890:android:0259bef1e50a35bc0e435b",
+        "android_client_info": {
+          "package_name": "com.gogame.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvvsORgL83OtmDp1pceHdQh9CWGMZog5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
